@@ -1,21 +1,54 @@
-/* Your styles here */
-body {
-    width: 450px;
-    margin: 0;
-    }
 
-    header {
-        padding: 2rem;
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        background-color: black;
-        text-align: center;
-     }
-
-     .immagine {
-        width: 133px;
-        height: auto;
-     }
 
      
+header {
+    background-color: black;
+    
+}
+
+.box1 {
+
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/banner.jpg);
+;
+}
+
+header img {
+    text-align: center;
+    
+}
+
+.fonttitle {
+    margin-top: 0;
+    padding-top: 1.5em;
+    color: #348be2;
+   font-family: "Montserrat Subrayada", sans-serif; "mont"  #393d41 ; 
+   }
+
+   .fontp , .font27 {
+    font-family:"Open Sans" ;
+   }
+
+   .botton {
+    color: white;
+    font-family: "Montserrat Subrayada", sans-serif; 
+    background-color: #f04c2f;
+    padding: 0.8em 2em;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 2.5em;
+    
+   }
+
+   .testo1 {
+    display: inline;
+   }
+
+   .font27 { 
+    font-size: 27px;
+    padding-bottom: 13px;
+
+   }
+
